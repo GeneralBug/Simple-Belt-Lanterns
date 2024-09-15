@@ -1,0 +1,42 @@
+{
+	"replace": false,
+	"values":
+	[
+		{
+			"id": "minecraft:soul_lantern",
+			"required": false
+		},
+		{
+			"id": "pigsteel:pigsteel_soul_lantern",
+			"required": false
+    	},
+		{
+			"id": "pigsteel:infected_pigsteel_soul_lantern",
+			"required": false
+    	},
+		{
+			"id": "pigsteel:corrupted_pigsteel_soul_lantern",
+			"required": false
+    	},
+		{
+			"id": "pigsteel:zombified_pigsteel_soul_lantern",
+			"required": false
+    	},
+		{
+			"id": "pigsteel:waxed_pigsteel_soul_lantern",
+			"required": false
+    	},
+		{
+			"id": "pigsteel:waxed_infected_pigsteel_soul_lantern",
+			"required": false
+    	},
+		{
+			"id": "pigsteel:waxed_corrupted_pigsteel_soul_lantern",
+			"required": false
+    	},
+		{
+			"id": "pigsteel:waxed_zombified_pigsteel_soul_lantern",
+			"required":false
+		}
+	]
+}

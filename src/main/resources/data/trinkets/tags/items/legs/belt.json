@@ -1,110 +1,22 @@
 {
-  "replace": false,
-  "values": 
-  [
-	{
-		"id": "minecraft:lantern",
-		"required": false
-    },
-	{
-		"id": "minecraft:soul_lantern",
-		"required": false
-	},
-	{
-		"id": "ribbits:swamp_lantern",
-		"required": false
-    },
-	{
-		"id": "twigs:paper_lantern",
-		"required": false
-    },
-	{
-		"id": "twigs:allium_paper_lantern",
-		"required": false
-    },
-	{
-		"id": "twigs:blue_orchid_paper_lantern",
-		"required": false
-    },
-	{
-		"id": "twigs:crimson_roots_paper_lantern",
-		"required": false
-    },
-	{
-		"id": "twigs:dandelion_paper_lantern",
-		"required": false
-    },
-	{
-		"id": "twigs:torchflower_paper_lantern",
-		"required": false
-    },
-	{
-		"id": "galosphere:pink_salt_lamp",
-		"required": false
-    },
-	{
-		"id": "pigsteel:pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:infected_pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:corrupted_pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:zombified_pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_infected_pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_corrupted_pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_zombified_pigsteel_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:pigsteel_soul_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:infected_pigsteel_soul_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:corrupted_pigsteel_soul_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:zombified_pigsteel_soul_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_pigsteel_soul_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_infected_pigsteel_soul_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_corrupted_pigsteel_soul_lantern",
-		"required": false
-    },
-	{
-		"id": "pigsteel:waxed_zombified_pigsteel_soul_lantern",
-		"required":false
-	}
-  ]
+	"replace": false,
+	"values":
+	[
+		{
+			"id": "#c:lanterns",
+			"required": false
+    	},
+		{
+			"id": "#c:soul_lanterns",
+			"required": false
+		},
+		{
+			"id": "galosphere:pink_salt_lamp",
+			"required": false
+		},
+		{
+			"id": "ribbits:swamp_lantern",
+			"required": false
+    	}
+	]
 }
