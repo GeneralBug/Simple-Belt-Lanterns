@@ -1,9 +1,12 @@
 # Fabric Example Mod
+###### Based on https://github.com/FabricMC/fabric-example-mod
 
-## Setup
+Simple Fabric mod allowing you to equip lanterns in the Trinket belt slot. Requires [Trinkets](https://modrinth.com/mod/trinkets), [Radiant Gear](https://modrinth.com/mod/radiant-gear) and a compatible dynamic light mod like [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+Currently supports lanterns from:
+ - Twigs
+ - Pigsteel
+ - Galosphere
+ - Ribbits
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Please suggest more :)
