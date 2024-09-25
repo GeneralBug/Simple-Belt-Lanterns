@@ -225,6 +225,10 @@
 		{
 			"id": "#additionallanterns:waxed_weathered_copper_lanterns",
 			"required":false
+		},
+		{
+			"id": "rubinated_nether:ruby_lantern",
+			"required":false
 		}
 	]	
 }
