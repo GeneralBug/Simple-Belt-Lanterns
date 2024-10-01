@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "bug_beltlanterns",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "Simple Belt Lanterns",
 	"description": "Simple mod letting you equip lanterns in Trinket slots",
 	"authors": [
