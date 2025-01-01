@@ -229,6 +229,14 @@
 		{
 			"id": "rubinated_nether:ruby_lantern",
 			"required":false
+		},
+		{
+			"id": "pearfection:lampear",
+			"required":false
+		},
+		{
+			"id": "pearfection:copper_lampear",
+			"required":false
 		}
 	]	
 }

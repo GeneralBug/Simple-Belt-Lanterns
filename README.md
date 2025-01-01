@@ -10,5 +10,6 @@ Currently supports lanterns from:
 - Ribbits
 - Additional Lanterns
 - Rubinated Nether
+- Pearfection
 
 Also you can build in compatibility with your own mod by simply tagging the item under c:lanters or c:soul_lanterns. Otherwise, please suggest more for me to add :)
